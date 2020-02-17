@@ -1,0 +1,32 @@
+[
+  {
+    "log_file" : "D:\\ErrorNotifierApp\\src\\main\\java\\v2\\log\\app1.txt",
+    "application_name": "application - 1",
+    "users" : [
+      {
+        "name" : "nimal",
+        "email" : "nimal@example.com",
+        "phone" : "0000000",
+        "notificationTypes" : ["email","sms"]
+      },
+      {
+        "name" : "kamal",
+        "email" : "kamal@example.com",
+        "phone" : "0000000",
+        "notificationTypes" :["email"]
+      }
+    ]
+  },
+  {
+    "log_file" : "D:\\ErrorNotifierApp\\src\\main\\java\\v2\\log\\app2.txt",
+    "application_name": "application - 2",
+    "users" : [
+      {
+        "name" : "saman",
+        "email" : "saman@example.com",
+        "phone" : "0000000",
+        "notificationTypes" : ["email","sms"]
+      }
+    ]
+  }
+]
